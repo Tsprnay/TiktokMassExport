@@ -1,0 +1,1 @@
+All links from the Input.txt file will be downloaded. Make sure to add each link on a new line in Input.txt
